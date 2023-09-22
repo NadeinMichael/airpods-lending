@@ -302,7 +302,6 @@ body {
   .header__content-images img {
     max-width: 100%;
   }
-
   .title {
     font-size: 180px;
     transform: translate(129px, 29px);
@@ -313,7 +312,7 @@ body {
   .title {
     transform: none;
     font-size: 140px;
-    padding-top: 17vh;
+    padding-top: 11vh;
     left: -189px;
     right: 0;
     text-align: center;
